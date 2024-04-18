@@ -1,0 +1,17 @@
+{
+  "name": "trademap-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jackd": "^2.2.2",
+    "puppeteer": "^22.6.2"
+  }
+}
